@@ -7,7 +7,7 @@
 <p align="center">
   A personal portfolio site built with Nuxt 4, Vue 3, and Tailwind CSS.
   <br />
-  <a href="https://minimal-portfolio-beta-one.vercel.app/"><strong>devthakur.vercel.app »</strong></a>
+  <a href="https://minimal-portfolio-beta-one.vercel.app/"><strong>Portfolio »</strong></a>
 </p>
 
 <p align="center">
