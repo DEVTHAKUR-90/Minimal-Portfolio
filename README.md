@@ -149,8 +149,23 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## Contact
 
-**Dev Thakur**
+<div align="center">
 
-- Email: [90dthakur@gmail.com](mailto:90dthakur@gmail.com)
-- LinkedIn: [linkedin.com/in/dev-thakur90](https://www.linkedin.com/in/dev-thakur90)
-- GitHub: [@DEVTHAKUR-90](https://github.com/DEVTHAKUR-90)
+[![Email](https://img.shields.io/badge/📧_Email-90dthakur@gmail.com-EA4335?style=for-the-badge)](mailto:90dthakur@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-dev--thakur90-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/dev-thakur90)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-DEVTHAKUR--90-181717?style=for-the-badge)](https://github.com/DEVTHAKUR-90)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-devthakur.vercel.app-7C3AED?style=for-the-badge)](https://devthakur.vercel.app)
+
+<br>
+
+⭐ **Star this repo if you found it useful** ⭐
+
+<br>
+
+<img src="https://img.shields.io/badge/Built_with-❤️_by_Dev_Thakur-7C3AED?style=for-the-badge" />
+
+<br><br>
+
+<sub>© 2026 Dev Thakur. All rights reserved.</sub>
+
+</div>
