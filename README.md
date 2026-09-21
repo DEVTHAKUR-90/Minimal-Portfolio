@@ -145,4 +145,3 @@ This project is licensed under the [MIT License](./LICENSE).
 
 - Email: [90dthakur@gmail.com](mailto:90dthakur@gmail.com)
 - LinkedIn: [linkedin.com/in/dev-thakur90](https://www.linkedin.com/in/dev-thakur90)
-- GitHub: [@DEVTHAKUR-90](https://github.com/DEVTHAKUR-90)
